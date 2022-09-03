@@ -1,4 +1,5 @@
-import React from "react";
+import React, { useEffect } from "react";
+import axios from "axios";
 
 export default function Main(props) {
   return (
@@ -11,7 +12,7 @@ export default function Main(props) {
         <h1 style={{ color: props.colors.titleColor }}>{props.title}</h1>
       </center>
       <center>
-        <p style={{ color: props.colors.bodyColor }}>Get started by editing</p>
+        <p style={{ color: props.colors.bodyColor }}>{props.content}</p>
       </center>
     </main>
   );
