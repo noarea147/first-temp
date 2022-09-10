@@ -1,0 +1,36 @@
+[
+  {
+    "type": "ContainerImageText",
+    "children": [
+      {
+        "content": "",
+        "url": "https://avoconsulte.com/b9662c85b1ef7d3466f557e6f1fcf0b7.png",
+        "className": "",
+        "type": "image"
+      },
+      {
+        "content": "this is the template content",
+        "className": "",
+        "title": "this is the template title",
+        "type": "text"
+      }
+    ]
+  },
+  {
+    "type": "ContainerTextImage",
+    "children": [
+      {
+        "content": "",
+        "url": "https://avoconsulte.com/b9662c85b1ef7d3466f557e6f1fcf0b7.png",
+        "className": "",
+        "type": "image"
+      },
+      {
+        "content": "this is the template content",
+        "className": "",
+        "title": "this is the template title",
+        "type": "text"
+      }
+    ]
+  }
+]
